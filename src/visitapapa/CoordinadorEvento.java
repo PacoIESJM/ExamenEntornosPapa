@@ -9,7 +9,7 @@ package visitapapa;
  *
  * @author Pacoep
  */
-import java.util.Scanner;
+
 
 public class CoordinadorEvento {
 
