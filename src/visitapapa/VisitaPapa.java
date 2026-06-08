@@ -19,6 +19,8 @@ public class VisitaPapa {
     public static void main(String[] args) {
         // Declaración de variables
         Scanner reader = new Scanner(System.in);
+        CoordinadorEvento c1 = new CoordinadorEvento("Saturnino", 1, Especialidad.SEGURIDAD);
+        CoordinadorEvento c2 = new CoordinadorEvento("Ruperta", 2, Especialidad.PROTOCOLO);
     }
 
 }
